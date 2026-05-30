@@ -4,7 +4,7 @@ export default function Home() {
       <div className="home__content">
         <p className="home__eyebrow">Frontend Developer</p>
         <h1 className="home__title">
-          Hi, I&apos;m <span className="home__name">Alex Morgan</span>
+          Hi, I&apos;m <span className="home__name">Ayush Gupta</span>
         </h1>
         <p className="home__subtitle">
           I craft responsive, accessible web experiences with clean code and

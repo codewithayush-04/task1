@@ -15,7 +15,7 @@ export default function Navbar({ theme, onToggleTheme }) {
   return (
     <header className="navbar">
       <a href="#home" className="navbar__logo" onClick={handleNavClick}>
-        AM<span className="navbar__dot">.</span>
+        AG<span className="navbar__dot">.</span>
       </a>
 
       <button
