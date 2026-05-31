@@ -22,7 +22,7 @@ export default function Home() {
 
       <div className="home__visual" aria-hidden="true">
         <div className="home__avatar">
-          <span>AM</span>
+          <span>AG</span>
         </div>
         <div className="home__orbit home__orbit--1" />
         <div className="home__orbit home__orbit--2" />
